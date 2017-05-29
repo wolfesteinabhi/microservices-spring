@@ -23,7 +23,7 @@ import org.springframework.web.context.WebApplicationContext;
  * Out-of-container test for the config client.
  * Verifies everything -- except for the call to the config server.
  * 
- * @author ken krueger
+ *
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest

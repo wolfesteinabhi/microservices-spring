@@ -4,9 +4,9 @@
 2. [Download](https://maven.apache.org/download.cgi) and install Maven 2 or greater if you do not already have it.
 3. Download and install an IDE if you wish to use one.  The lab instructions are written for [Spring Tool Suite](https://spring.io/tools/sts/all), but you can use regular Eclipse, IntelliJ, or another IDE if desired.  You can also work on all exercises without any IDE if you prefer.
 4. Create a [Github](https://github.com) account, or be prepared to create a repository using another Git account that you already have access to.
-5. Download Files from [https://github.com/kennyk65/Microservices-With-Spring-Student-Files](https://github.com/kennyk65/Microservices-With-Spring-Student-Files) (Use download ZIP, or Clone in Desktop, whichever you prefer)
+5. Download Files from [https://github.com/shakilakhtar/microservices-spring](https://github.com/shakilakhtar/microservices-spring) (Use download ZIP, or Clone in Desktop, whichever you prefer)
 6. Import all of the downloaded Maven projects into your IDE.
-7. Optional - Find and install a REST plugin for the web browser that you would like to use for this course.  For example, I use "Simple REST Client" in Chrome.
+7. Optional - Find and install a REST plugin for the web browser that you would like to use for this course.  For example, I use Postman or "Simple REST Client" in Chrome.
 
 Notice that:
 - Not all subfolders within the student files contain Maven projects.  Some contain the lab instructions, such as this document that your are reading now.
