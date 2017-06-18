@@ -5,7 +5,6 @@ package demo.domain;
 /**
  * 'Word' object is nicely represented in JSON over a regular String.
  * 
- * @author Ken Krueger, Jorge Centeno Fernandez 
  */
 public class Word {
 

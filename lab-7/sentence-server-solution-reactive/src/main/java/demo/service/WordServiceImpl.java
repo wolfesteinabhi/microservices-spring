@@ -19,7 +19,6 @@ import rx.Observable;
 import rx.schedulers.Schedulers;
 
 /**
- * @author Ken Krueger, Jorge Centeno Fernandez 
  */
 @Service
 public class WordServiceImpl implements WordService {

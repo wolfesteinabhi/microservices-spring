@@ -8,7 +8,6 @@ import demo.domain.Word.Role;
 /**
  * Model of a Sentence, composed of Words.
  * 
- * @author Ken Krueger, Jorge Centeno Fernandez 
  */
 public class Sentence {
 
