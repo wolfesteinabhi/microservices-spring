@@ -9,7 +9,7 @@
 7. Optional - Find and install a REST plugin for the web browser that you would like to use for this course.  For example, I use Postman or "Simple REST Client" in Chrome.
 
 Notice that:
-- Not all subfolders within the student files contain Maven projects.  Some contain the lab instructions, such as this document that your are reading now.
+- Not all subfolders within the microservices-spring contain Maven projects.  Some contain the lab instructions, such as this document that your are reading now.
 - Projects are grouped by lab #, each corresponding to a module in the course.
 - Projects suffixed with “solution” are intended to illustrate the completed version of each lab.  Try to complete each lab without peeking at the solutions, but if you get stuck they are available to you.
 
