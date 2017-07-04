@@ -23,7 +23,7 @@ import org.springframework.web.context.WebApplicationContext;
  * Ensures that we can retrieve team information.
  * Verifies the entire stack, from DispatcherServlet to DB, without running a server.
  * 
- * @author ken krueger
+ * 
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Application.class)
